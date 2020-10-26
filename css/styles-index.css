@@ -97,19 +97,17 @@ p {
 .main-title {
   background-color: var(--bg-color-black);
   text-align: center;
+  padding-top: 200px;
+  padding-bottom: 200px;
 }
 .main-title .hero {
   display: block;
-  padding-top: 280px;
-  padding-right: 453px;
-  padding-left: 452px;
-  padding-bottom: 30px;
+  margin-bottom: 30px;
 
   font-family: Roboto;
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
-  text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: var(--white);
@@ -120,13 +118,11 @@ p {
   border: 1px var(--blue);
   padding: 10px 32px;
   min-width: 200px;
-  margin-bottom: 200px;
 
   font-family: Roboto;
   font-weight: bold;
   font-size: 16px;
   line-height: 1.88;
-  text-align: center;
   letter-spacing: 0.06em;
   color: var(--white);
   background: var(--blue);
