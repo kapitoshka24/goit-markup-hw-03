@@ -9,10 +9,8 @@
   --contacts-footer: rgba(255, 255, 255, 0.6);
   --inactive-bg-button: #f5f4fa;
 }
-.line {
-  margin: 0;
-  border: 1px solid var(--line);
-  background-color: var(--line);
+.main-nav {
+  border-bottom: 1px solid var(--line);
 }
 .services {
   display: flex;
